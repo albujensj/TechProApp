@@ -1,0 +1,65 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.header-left{
+    width: 100%;
+}
+.header-right{
+    color:white;
+}
+.gradient-text {
+    font-size: 5em;
+    font-weight: bold;
+    background: linear-gradient(to right, rgb(36, 73, 173), rgb(18, 153, 72));
+    -webkit-background-clip: text; 
+    color: transparent;
+}
+.img-services{
+    height: 40px;
+    width: auto;
+}
+.col-gap > * {
+    gap:3;
+}
+
+.about{
+    height: 75vh;
+}
+
+.img-about{
+    width: 100%;
+    height: 100%;
+}
+
+.choose{
+    font-size: 3rem;
+    font-weight: bold;
+    background: linear-gradient(to right, rgb(36, 73, 173), rgb(2, 255, 103));
+    -webkit-background-clip: text; 
+    color: transparent;
+    text-align: center;
+}
+
+.choose-imgx{
+    background-image: url('../img/modelo-x.svg');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.choose-imgy{
+    background-image: url('../img/modelo-y.svg');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.choose-imgz{
+    background-image: url('../img/modelo-z.svg');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.info-img{
+    width:100%;
+}
