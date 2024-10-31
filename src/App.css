@@ -42,19 +42,19 @@
 }
 
 .choose-imgx{
-    background-image: url('../img/modelo-x.svg');
+    background-image: url('/src/assets/img/modelo-x.svg');
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
 }
 .choose-imgy{
-    background-image: url('../img/modelo-y.svg');
+    background-image: url('/src/assets/img/modelo-y.svg');
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
 }
 .choose-imgz{
-    background-image: url('../img/modelo-z.svg');
+    background-image: url('/src/assets/img/modelo-z.svg');
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
